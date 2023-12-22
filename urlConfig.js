@@ -1,5 +1,5 @@
 // const  BASE_URL = import.meta.env.VITE_BASE_URL
-const BASE_URL = 'https://nov-23-be-deploy.onrender.com/'
+const BASE_URL = 'https://nov-23-be-deploy.onrender.com'
 
 const urlConfig = {
     LOGIN_URL: `${BASE_URL}/api/auth/login`,
